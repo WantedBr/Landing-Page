@@ -9,8 +9,8 @@
 
 body {
     font-size: 100%;
-    background: rgb(0, 0, 0);
-    background: linear-gradient(90deg, rgba(0, 0, 0, 1) 47%, rgba(176, 79, 79, 1) 95%);
+    background: rgb(49, 92, 45);
+    background: linear-gradient(90deg, rgba(49, 92, 45, 1) 43%, rgba(68, 21, 21, 1) 78%);
 }
 
 .Cabeçalho {
