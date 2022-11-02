@@ -1,0 +1,190 @@
+@import url('https://fonts.googleapis.com/css2?family=Righteous&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+body {
+    font-size: 100%;
+    background: rgb(0, 0, 0);
+    background: linear-gradient(90deg, rgba(0, 0, 0, 1) 47%, rgba(176, 79, 79, 1) 95%);
+}
+
+.Cabeçalho {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    padding: 10px;
+
+
+}
+
+.img-cabeçalho {
+    border-radius: 100px;
+    border-color: white;
+    border: 10px solid white;
+    width: 100px;
+    height: 100px;
+    display: flex;
+
+
+
+}
+
+.menu-pesquisar {}
+
+.caixa-pesquisar {
+    border-radius: 20px;
+    width: 300px;
+    height: 30px;
+}
+
+.botao-pesquisar {
+    border: solid 1px;
+    border-radius: 20px;
+    padding: 5px;
+
+}
+
+.menu-cabeçalho {
+    display: flex;
+    gap: 32px;
+    font-family: 'Righteous', cursive;
+    text-shadow: 5px 5px 10px #000000;
+
+
+}
+
+.insta {
+    border: solid 1px;
+    border-radius: 20px;
+    padding: 5px;
+    color: white;
+}
+
+.insta:hover {
+    background-color: white;
+    color: black;
+
+}
+
+.face {
+    border: solid 1px;
+    border-radius: 20px;
+    padding: 5px;
+    color: white;
+}
+
+.face:hover {
+    background-color: white;
+    color: black;
+
+}
+
+.wpp {
+    border: solid 1px;
+    border-radius: 20px;
+    padding: 5px;
+    color: white;
+}
+
+.wpp:hover {
+    background-color: white;
+    color: black;
+
+}
+
+.conteudo {
+    border-top: ;
+    margin-bottom: 100px solid;
+}
+
+.conteudo-principal {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.titulos {
+    color: white;
+}
+
+.titulo-principal {
+    font-family: 'Righteous', cursive;
+    font-size: 100px;
+    text-shadow: 5px 5px 10px #000000;
+    letter-spacing: 1px;
+}
+
+.titulo-secundario {
+    font-family: 'Righteous', cursive;
+    font-size: 25px;
+    text-shadow: 5px 5px 10px #000000;
+    letter-spacing: 2px;
+
+}
+
+.botao {
+    border: solid 1px;
+    border-radius: 20px;
+    padding: 5px;
+    color: white;
+    font-size: 25px;
+    font-family: 'Righteous', cursive;
+    text-shadow: 5px 5px 10px #000000;
+
+}
+
+.botao:hover {
+    background-color: white;
+    color: black;
+
+}
+
+.img-main {
+    width: 350px;
+    height: 350px;
+    border-radius: none;
+    box-shadow: 5px 5px 10px #000000;
+    border: solid white 10px;
+}
+
+.main-secundaria {
+    color: white;
+    font-family: 'Righteous', cursive;
+    letter-spacing: 2px;
+
+}
+
+.titulo-historia {
+    margin: 30px;
+    text-shadow: 5px 5px 10px #000000;
+    display: flex;
+    justify-content: space-between;
+
+
+}
+
+.paragrafo1 {
+    margin: 10px;
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.paragrafo2 {
+    margin: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.paragrafo3 {
+    margin: 10px;
+    display: flex;
+    justify-content: space-between;
+}
